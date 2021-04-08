@@ -1,2 +1,2 @@
-# Bootstrap
-Bootstrap
+# Zebra-Striped-Table
+Zebra-Striped-Table
